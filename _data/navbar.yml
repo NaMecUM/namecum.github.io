@@ -12,7 +12,7 @@
   link: "#blog"
 
 - name: Equipa
-  link: "#coderdojo"
+  link: "#team"
 
 #- name: Notícias
 #  link: "#schedules"
@@ -28,6 +28,3 @@
 
 - name: Parceiros
   link: "#sponsors"
-
-# - name: Contacto
-#   link: "#contact-map"
