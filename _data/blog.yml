@@ -1,0 +1,36 @@
+# -------- Blog --------
+
+name: Agenda
+
+calendar:
+  - title: Campanha de Recolha de Brinquedos
+    tag: Recolha de bens
+    id: brinquedos
+    date: 5 de novembro a 10 de dezembro
+    photo: natalsolidario.jpg
+    description: UMinho lança Campanha de Recolha de Brinquedos para crianças carenciadas e com necessidades especiais. A Universidade do Minho (UMinho) lançou no passado dia 5 de novembro, a Campanha de Recolha de Brinquedos "OFERECE e faz uma criança feliz!". Os brinquedos angariados serão entregues a crianças carenciadas e a crianças com necessidades especiais. Em Guimarães, a recolha terá lugar no Complexo Desportivo de Azurém; Bar Engenharia I; Bar Centro de Ciência Viva (Campus de Couros); Residências Universitárias (Azurém e Combatentes); Sociedade Martins Sarmento; Agrupamento de Escolas Francisco de Holanda e Escola Secundária de Caldas das Taipas.
+    registration:
+
+  - title: Skills4life
+    tag: Palestra
+    id: skills
+    date: 27 de novembro
+    photo: skills4life.jpg
+    description: A Skills4Life é um programa de desenvolvimento de competências transversais, dirigido a estudantes da Universidade do Minho. Insere-se no trabalho que a TecMinho desenvolve no âmbito do apoio à carreira, através do JobLab – Laboratório de Aceleração e Desenvolvimento de Carreira e pretende desenvolver um conjunto de competências transversais (soft skills). Se queres saber mais sobre este tema aparece na terça, dia 27, pelas 18h na sala 3-1.149. Esta palestra é exclusiva a alunos do Mestrado Integrado em Engenharia Mecânica e possui um número de vagas limitado. Certamente não vais querer ficar de fora!
+    registration: https://docs.google.com/forms/d/e/1FAIpQLSfxTDrDE3zoAUn2N_GLryUR9ZIRj1o7NrCecpLstRMZQv7irw/viewform?fbclid=IwAR1icKfKyLUcKHK_Td-xJ4kWN0PAI9HsDP-W4kLC338Coe2fMpeh4Kyc9n8
+
+  - title: Formação em Microsoft Excel
+    tag: Formação
+    id: excel
+    date: Quartas-feiras a partir de dia 21 de novembro
+    photo: excel.jpg
+    description: O NAMecUM continua a apostar na tua formação! Não percas a formação em Microsoft Excel, inscreve-te até 19 de Novembro
+    registration: https://goo.gl/forms/nKmc5CIHHRzYVxwV2
+
+  - title: Startpoint@UM
+    tag: Feira de Emprego
+    id: startpoint
+    date: 13, 14 e 15 de Novembro
+    photo: startpoint.jpg
+    description: Está a chegar a maior Feira de Emprego e Empreendedorismo da UMinho. Marca na agenda 13, 14 e 15 de Novembro decorre a 10.ª edição da StartPoint@UM, que reúne cerca de 70 empresas/entidades e mais de 800 vagas de emprego, contando com várias oportunidades de desenvolvimento de competências. Estás à espera de quê?
+    registration: bit.ly/startpoint10

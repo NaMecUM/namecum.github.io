@@ -1,0 +1,46 @@
+<!-- Blog Section Start -->
+<section id="blog" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title-header text-center">
+          <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">{{ site.data.blog.name }}</h1>
+        </div>
+      </div>
+      {% for day in site.data.blog.calendar %}
+      <div class="col-lg-4 col-md-6 col-xs-12">
+        <div class="blog-item">
+            <div class="blog-image">
+                <img class="img-fluid" src="assets/img/blog/{{ day.photo }}" alt="">
+            </div>
+            <div class="descr">
+              <div class="tag">{{ day.tag }}</div>
+              <h3 class="title">
+                {{ day.title }}
+              </h3>
+            <div class="meta-tags">
+              <span class="date">{{ day.date }}</span>
+                <span class="comments">
+                  <!--<p>{{ day.description | markdownify }}</p>-->
+                  <div class="col-lg-6 col-md-6 col-xs-6">
+                  {% if day.registration %}
+                    <a href="{{ day.registration }}" class="btn btn-common button">Inscrição</a>
+                  {% endif %}
+                  <button class="btn btn-common text-toggle" data-toggle="collapse" data-target="#{{day.id}}" aria-expanded="false">
+                      <span class="text-collapsed">See More</span>
+                      <span class="text-expanded">See Less</span>
+                  </button>
+                  </div>
+                  <div id="{{day.id}}" class="collapse" aria-expanded="false">
+                      <h6>"{{day.description}}"</h6>
+                  </div>
+                </span>
+            </div>
+            </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- Blog Section End -->

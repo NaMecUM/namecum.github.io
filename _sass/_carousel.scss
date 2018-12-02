@@ -1,0 +1,35 @@
+#main-slide {
+
+	background-size: cover;
+	background-attachment: scroll;
+	display: table;
+  width: 100%;
+  height: auto;
+  text-align: center;
+	background-color: $light-gray;
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+	font-size: 48px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+}
+
+#text {
+	transform: translateY(-35%);
+	display: block;
+	color: #212121;
+	margin-top: 145px;
+	margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+	img {
+		    position: relative;
+		    width: 40%;
+		}
+}

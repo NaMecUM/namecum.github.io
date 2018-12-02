@@ -1,0 +1,24 @@
+# ============================================================================ #
+# Schedule
+# ============================================================================ #
+
+title: Próximos Eventos
+
+calendar:
+  - name: Fim de Semana
+    tag: weekend
+    date: 13 e 14 de outubro
+    events:
+      - name: Competição de Engenharia do Minho
+        tag: cem
+        time: 8h30 - 12h30
+        photo:
+        description: |
+          A Competição de Engenharia do Minho é uma maratona de 24 horas onde
+          uma equipa multidisciplinar de 5 estudantes de Engenharia
+          desenvolve um produto ou serviço inovador que dê resposta a um
+          problema atual no funcionamento da Universidade do Minho. Esta
+          solução será no final apresentada a um painel multidisciplinar que
+          irá distinguir equipas vencedoras.
+        location: Complexo Desportivo de Azurém
+        registration: https://bit.ly/2POzcAZ
