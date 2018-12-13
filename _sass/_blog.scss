@@ -1,3 +1,15 @@
+#blog{
+	background: url(../img/background/escola.png);
+	background-attachment: fixed;
+	background-repeat: none;
+	overflow: hidden;
+	position: relative;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 	.blog-item{
 		background-color: #fff;
 		border-radius: 4px;

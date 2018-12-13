@@ -1,0 +1,31 @@
+# ============================================================================ #
+# Sponsors
+# ============================================================================ #
+
+title: Parceiros
+description:
+
+list:
+  - company: GTC
+    logo: gtc.png
+    url: www.gtc-rc.com
+
+  - company: Famy Kebab
+    logo: famykebab.png
+
+
+  - company: Jetta Print Shop
+    logo: jetta.png
+    url: jettaprint.pt
+
+  - company: Escola de Música Mozart
+    logo: mozart.png
+    url: www.escolamusicamozart.com
+
+  - company: Double Caffe
+    logo: double.png
+    url: www.facebook.com/doublecafeguimaraes/
+
+  - company: Videonorte
+    logo: videonorte.png
+    url: videonorte.pt
